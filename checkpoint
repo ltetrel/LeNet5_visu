@@ -1,0 +1,2 @@
+model_checkpoint_path: "/notebooks/yu_gpu_cpu_profile/LeNetVisu/LeNet5"
+all_model_checkpoint_paths: "/notebooks/yu_gpu_cpu_profile/LeNetVisu/LeNet5"
